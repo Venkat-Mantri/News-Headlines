@@ -1,5 +1,4 @@
 # News-Headlines
-Project Overview
+Project Description
 
-This project implements a Python-based web scraper designed to extract top news headlines from a publicly accessible news website. Utilizing the requests library for making HTTP requests and BeautifulSoup for parsing HTML content, the script identifies headline elements (typically within <h2> or <h3> tags) and compiles them into a structured .txt file. 
-The objective of this project is to automate the process of data collection from online news sources, demonstrating key concepts in web scraping such as HTTP communication, DOM parsing, and data persistence. This tool can serve as a foundation for more advanced data analysis, content monitoring, or media trend tracking applications.
+This repository contains a Python-based web scraper that automatically collects top news headlines from a public news website. It leverages the requests library to fetch HTML content and BeautifulSoup for parsing and extracting headline elements (e.g., <h2>, <h3> tags). Extracted headlines are saved to a .txt file for easy access and future reference. The project demonstrates practical skills in web scraping, HTTP communication, and data handling using Python, and serves as a foundational tool for news aggregation, content monitoring, or text analysis.
